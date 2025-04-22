@@ -1,1 +1,1 @@
-# cs50-weeh3
+# cs50-week3
